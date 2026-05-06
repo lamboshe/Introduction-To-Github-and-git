@@ -1,4 +1,4 @@
-# Hi, I'm [Sean Awili]
+# Hi 👋, I'm[Sean Awili]
 
 ## About Me
 - I'm currently learning [cyber security, i.e., "Computer Science at University of Nairobi"].
